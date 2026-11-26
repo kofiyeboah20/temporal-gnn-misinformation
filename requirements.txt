@@ -1,0 +1,8 @@
+# Core dependencies (install matching CUDA builds of torch / torch-geometric for your GPU)
+torch
+torch-geometric
+numpy
+scikit-learn
+datasets
+huggingface-hub
+matplotlib
